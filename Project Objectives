@@ -27,4 +27,12 @@ Detection & Integrity Controls
   - Monitoring of critical web and config files
   - Detection of unauthorized creation, modification, or deletion
 
-
+Security Testing & Threat Intelligence
+- **cURL**                   – Header inspection and redirect validation
+- **SecurityHeaders.com**    – HTTP header analysis
+- **Mozilla Observatory**    – Web security posture scoring
+- **SSL Labs**               – TLS and certificate assessment
+- **MXToolbox**              – DNS and email security validation
+- **Google CSP Evaluator**   – CSP misconfiguration analysis
+- **Shodan**                 – External exposure and service discovery
+- **VirusTotal**             – Domain, IP, and URL reputation analysis

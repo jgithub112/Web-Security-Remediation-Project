@@ -23,4 +23,8 @@ Detection & Integrity Controls
   - File modification time monitoring
   - Unauthorized change detection
 
+- **File Integrity Management (FIM)**
+  - Monitoring of critical web and config files
+  - Detection of unauthorized creation, modification, or deletion
+
 

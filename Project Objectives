@@ -10,3 +10,17 @@ Network & Web Protection
   - Reverse proxy deployment
   - Origin IP masking
   - Traffic filtering and exposure reduction
+
+Web Server Hardening
+- **.htaccess Security Configuration**
+  - HTTPS enforcement
+  - HTTP security headers (CSP, XFO, XCTO, RP)
+  - Directory listing prevention
+  - Access restriction for sensitive files
+
+Detection & Integrity Controls
+- **Timestamp Observation**
+  - File modification time monitoring
+  - Unauthorized change detection
+
+

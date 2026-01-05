@@ -3,3 +3,10 @@ Reduce attack surface of public-facing assets
 Detect unauthorized changes to web resources
 Validate remediation using independent security tools
 Produce audit- and management-ready security documentation
+
+Tools & Technologies Used 
+Network & Web Protection
+- **Cloudflare Proxy**  
+  - Reverse proxy deployment
+  - Origin IP masking
+  - Traffic filtering and exposure reduction

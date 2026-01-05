@@ -36,3 +36,17 @@ Security Testing & Threat Intelligence
 - **Google CSP Evaluator**   – CSP misconfiguration analysis
 - **Shodan**                 – External exposure and service discovery
 - **VirusTotal**             – Domain, IP, and URL reputation analysis
+
+Methodology Applied
+1. **Reconnaissance & Baseline Assessment**  
+   - Identified exposed services, weak headers, and misconfigurations
+2. **Risk Identification**  
+   - External scanning and threat intelligence correlation
+3. **Remediation & Hardening**  
+   - Server configuration changes and proxy protection
+4. **Detection Enablement**  
+   - File integrity monitoring and timestamp validation
+5. **Verification & Validation**  
+   - Independent testing using multiple security platforms
+6. **Documentation & Reporting**  
+   - Audit-ready evidence and management summaries
